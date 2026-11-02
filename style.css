@@ -1,0 +1,30 @@
+*{
+padding:0 ;
+margin: 0;
+box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+h3{
+    text-align: center;
+    color: white;
+}
+p{
+    text-align: center;
+    color: white;
+}
+button{ 
+    margin: auto;
+ align-items: center;
+ display: flex;
+ justify-content: center;
+    color: brown;
+}
+
+
+body{
+    background-color: black;
+}
